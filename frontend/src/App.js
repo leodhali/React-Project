@@ -16,7 +16,11 @@ function App() {
           <Route path='/read/:cust_id' element={<Read/>} />
         </Routes>
       </BrowserRouter>
+      <div>
+        
+      </div>
     </div>
+    
   );
 }
 
